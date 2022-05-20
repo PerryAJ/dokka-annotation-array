@@ -4,8 +4,6 @@
 
 package com.github.perryaj;
 
-import org.python.core.PyObject;
-
 /**
  * Here is a doc.
  */
